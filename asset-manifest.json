@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SquaresApp/static/css/main.f4275f7e.css",
+    "main.js": "/SquaresApp/static/js/main.28967a53.js",
+    "static/js/787.69ee914e.chunk.js": "/SquaresApp/static/js/787.69ee914e.chunk.js",
+    "index.html": "/SquaresApp/index.html",
+    "main.f4275f7e.css.map": "/SquaresApp/static/css/main.f4275f7e.css.map",
+    "main.28967a53.js.map": "/SquaresApp/static/js/main.28967a53.js.map",
+    "787.69ee914e.chunk.js.map": "/SquaresApp/static/js/787.69ee914e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4275f7e.css",
+    "static/js/main.28967a53.js"
+  ]
+}
