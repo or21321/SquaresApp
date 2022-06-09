@@ -1,0 +1,14 @@
+.actions-popup {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    height: 100px;
+    width: fit-content;
+    background-color: $clr4;
+    padding: 15px;
+    border-radius: 3px;
+    transform: translateX(120%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

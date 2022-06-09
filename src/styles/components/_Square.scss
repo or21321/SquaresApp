@@ -1,0 +1,10 @@
+.square {
+    height: 100px;
+    min-width: fit-content;
+    position: absolute;
+    border: 1px solid $clr5;
+
+    &:hover {
+        cursor: pointer;
+    }
+}
