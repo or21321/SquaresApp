@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-
+Deployed:
+https://or21321.github.io/SquaresApp/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
