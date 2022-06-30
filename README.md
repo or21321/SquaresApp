@@ -1,4 +1,4 @@
-Deployed:
+Can be viewed here:
 https://or21321.github.io/SquaresApp/ 
 
 The SquaresApp allows the user to manage squares, with full CRUDL, undo & redo actions and Drag&Drop to relocate the different squares.
