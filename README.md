@@ -1,11 +1,6 @@
-# Getting Started with Create React App
+# SquaresApp
 Deployed:
-https://or21321.github.io/SquaresApp/ 
-
-The SquareApp allows you to manage squares, with full CRUDL, undo & redo actions, and also Drag&Drop to relocate the different squares.
-
-The Drag&Drop was made with a custom hook built by me, that can be used to drag any square shaped element inside a container, also within other contexts.
-
+https://or21321.github.io/SquaresApp/ #
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
