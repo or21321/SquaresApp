@@ -1,4 +1,5 @@
-# SquaresApp
+![](https://github.com/or21321/SquaresApp/blob/main/SquaresGif.gif)
+
 Deployed:
 https://or21321.github.io/SquaresApp/ 
 
