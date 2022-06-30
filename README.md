@@ -1,3 +1,5 @@
+<h2>SquaresApp</h2>
+
 Can be viewed here:
 https://or21321.github.io/SquaresApp/ 
 
